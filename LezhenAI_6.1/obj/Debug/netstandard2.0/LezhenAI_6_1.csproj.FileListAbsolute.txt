@@ -1,0 +1,16 @@
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\LezhenAI_6_1.csproj.AssemblyReference.cache
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\LezhenAI_6_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\Page1.xaml.g.cs
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\LezhenAI_6_1.AssemblyInfoInputs.cache
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\LezhenAI_6_1.AssemblyInfo.cs
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\LezhenAI_6_1.csproj.CoreCompileInputs.cache
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\bin\Debug\netstandard2.0\LezhenAI_6_1.deps.json
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\bin\Debug\netstandard2.0\LezhenAI_6_1.dll
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\bin\Debug\netstandard2.0\ref\LezhenAI_6_1.dll
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\bin\Debug\netstandard2.0\LezhenAI_6_1.pdb
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\LezhenAI_6_1.dll
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\refint\LezhenAI_6_1.dll
+C:\Шарага\мироша\РМП\LezhenAI_6.1\LezhenAI_6.1\obj\Debug\netstandard2.0\LezhenAI_6_1.pdb
