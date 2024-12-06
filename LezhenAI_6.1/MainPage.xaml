@@ -3,18 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="LezhenAI_6._1.MainPage">
 
-    <StackLayout>
-        <Label 
-            Text="Welcome to the first screen"               
-            VerticalOptions="CenterAndExpand"      
-            HorizontalOptions="CenterAndExpand"/>
-        <BoxView
-            Color="LightBlue"                  
-            WidthRequest="100"               
-            HeightRequest="100"
-            HorizontalOptions="Center"/>
-        <Button Text="Go to Second Page" 
-        Clicked="OnNavigateButtonClicked" 
-        HorizontalOptions="Center" />
-        </StackLayout>
+
+
+
 </ContentPage>
